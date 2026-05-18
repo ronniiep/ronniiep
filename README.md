@@ -1,39 +1,103 @@
-<!-- ### Hi there 👋, I'm Visalrotanak (ronnie) -->
 <div align="center">
-  <h1> Hi There 👋, I'm (ronnie) </h1>
-  <br>
-  <p>A full-time backend, and part-time full-stack developer. Currently working on being a DevOps Engineer.</p>
+  <h1>Hi there 👋, I'm Ronnie</h1>
+  <p>
+    Data Science & AI/ML Engineer · Quant / FinTech Enthusiast<br/>
+  </p>
 </div>
 
+---
 
+## About me
 
-<!-- <h3 align="center">My Tech Stacks</h3>
+- 📊 Data enthusiast turning raw data into insights and products  
+- 🤖 AI/ML engineer interested in end-to-end pipelines, from ETL to deployment  
+- 💹 Passionate about quantitative finance, algorithmic trading, and risk modeling  
+- 🧮 Enjoy combining math, statistics, and engineering to solve real-world financial problems  
+- 🌱 Currently exploring modern ML ops, experiment tracking, and production ML in finance  
+
+---
+
+## Tech stack
+
+#### Languages & Frameworks
+<p>
+  <!-- Adjust icons to match your real stack -->
+  <img src="https://skillicons.dev/icons?i=py,java,js,ts,cpp" />
+</p>
+
+#### Data & ML Ecosystem
+<p>
+  <!-- You can’t show all tools as icons; consider this illustrative -->
+  <b>Data:</b> Pandas, NumPy, SQL, Spark (if applicable), data visualization (Matplotlib, Seaborn, Plotly)  
+  <br/>
+  <b>ML:</b> scikit-learn, TensorFlow / PyTorch, XGBoost, time-series modeling, model evaluation & validation  
+</p>
+
+#### Quant & Finance Tooling
+<p>
+  <b>Topics:</b> Pricing models, portfolio optimization, factor models, risk analytics, backtesting  
+  <br/>
+  <b>Tools:</b> Jupyter, backtesting frameworks, APIs for market data, optimization libraries  
+</p>
+
+#### Tools & Platforms
+<p>
+  <img src="https://skillicons.dev/icons?i=git,linux,docker,aws" />
+  <br/>
+  <b>Workflow:</b> JupyterLab, VS Code, CI/CD, experiment tracking (MLflow or similar)  
+</p>
+
+---
+
+## What I'm currently working on
+
+- 🔭 Building ML-driven projects in finance (risk models, trading strategies, forecasting)  
+- 📈 Experimenting with forecasting models for time-series (markets, macro indicators, etc.)  
+- 🧪 Prototyping quantitative strategies and backtesting them on historical data  
+- ☁️ Learning how to deploy data products and ML models reliably (APIs, dashboards, batch pipelines)  
+
+---
+
+## Featured projects
+
+<!-- Replace with actual repos and short, concrete summaries -->
+
+- 📌 **[Project Name – Quant Strategy / Backtesting](https://github.com/your-username/your-repo)**  
+  Backtested trading strategy using time-series models and risk constraints, with performance evaluation and visualization.
+
+- 📌 **[Project Name – Credit Risk / Scoring Model](https://github.com/your-username/your-repo)**  
+  Built and evaluated a credit risk / scoring model with feature engineering, model comparison, and explainability.
+
+- 📌 **[Project Name – ML Pipeline in Production](https://github.com/your-username/your-repo)**  
+  End-to-end ML pipeline: data ingestion, training, evaluation, and deployment as an API with monitoring.
+
+---
+
+## Topics I love to discuss
+
+- 💬 Statistical learning, model validation, and feature engineering  
+- 💬 Time-series modeling, forecasting, and financial markets  
+- 💬 Portfolio optimization, risk management, and factor models  
+- 💬 Building reliable data & ML pipelines from notebook to production  
+
+---
+
+## GitHub stats
+
 <div align="center">
-  <p>Languages and Frameworks:</p>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,ts,nodejs,expressjs,svelte,nextjs,php,laravel,py,java" />
-  </a>
-  <p>Databases:</p>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=mysql,postgresql,sqlite,mongodb" />
-  </a>
-  <p>Tech and Tools:</p>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,redis,aws,linux,ubuntu,selenium" />
-  </a>
-</div> -->
+  <img src="https://github-readme-stats.vercel.app/api?username=r07n1e&show_icons=true&theme=github_dark" alt="Ronnie's GitHub stats" />
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=r07n1e&theme=github-dark&hide_border=true" alt="GitHub Streak" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=r07n1e&layout=compact&theme=github_dark" alt="Top Languages" />
+</div>
 
-<!--
-**r07n1e/r07n1e** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## Connect with me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 📫 Email: `your-email@example.com`  
+- 💼 LinkedIn: [your-linkedin](https://linkedin.com/in/your-handle)  
+- 📚 (Optional) Kaggle / blog / Medium: [your-profile-or-blog](https://your-blog-or-profile.com)  
+
+> Always happy to talk about data, ML, and finance — or to collaborate on interesting projects.
