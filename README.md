@@ -58,8 +58,6 @@
 
 ---
 
----
-
 ## Topics I love to discuss
 
 - 💬 Statistical learning, model validation, and feature engineering  
@@ -72,19 +70,13 @@
 ## GitHub stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=r07n1e&show_icons=true&theme=github_dark" alt="Ronnie's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ronniiep&show_icons=true&theme=github_dark" alt="Ronnie's GitHub stats" />
   <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=r07n1e&theme=github-dark&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=ronniiep&theme=github-dark&hide_border=true" alt="GitHub Streak" />
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=r07n1e&layout=compact&theme=github_dark" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ronniiep&layout=compact&theme=github_dark" alt="Top Languages" />
 </div>
 
 ---
-
-## Connect with me
-
-- 📫 Email: `your-email@example.com`  
-- 💼 LinkedIn: [your-linkedin](https://linkedin.com/in/your-handle)  
-- 📚 (Optional) Kaggle / blog / Medium: [your-profile-or-blog](https://your-blog-or-profile.com)  
 
 > Always happy to talk about data, ML, and finance — or to collaborate on interesting projects.
