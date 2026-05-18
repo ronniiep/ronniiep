@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>Hi there 👋, I'm Ronnie</h1>
+  <h1>Hi there 👋, I'm ronniiep</h1>
   <p>
     Data Science & AI/ML Engineer · Quant / FinTech Enthusiast<br/>
   </p>
@@ -57,19 +57,6 @@
 - ☁️ Learning how to deploy data products and ML models reliably (APIs, dashboards, batch pipelines)  
 
 ---
-
-## Featured projects
-
-<!-- Replace with actual repos and short, concrete summaries -->
-
-- 📌 **[Project Name – Quant Strategy / Backtesting](https://github.com/your-username/your-repo)**  
-  Backtested trading strategy using time-series models and risk constraints, with performance evaluation and visualization.
-
-- 📌 **[Project Name – Credit Risk / Scoring Model](https://github.com/your-username/your-repo)**  
-  Built and evaluated a credit risk / scoring model with feature engineering, model comparison, and explainability.
-
-- 📌 **[Project Name – ML Pipeline in Production](https://github.com/your-username/your-repo)**  
-  End-to-end ML pipeline: data ingestion, training, evaluation, and deployment as an API with monitoring.
 
 ---
 
