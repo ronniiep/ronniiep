@@ -74,7 +74,7 @@
   <br/>
   <img src="https://github-readme-streak-stats.herokuapp.com?user=ronniiep&theme=github-dark&hide_border=true" alt="GitHub Streak" />
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ronniiep&layout=compact&theme=github_dark" alt="Top Languages" />
+  <img src="https://github-readme-stats.herokuapp.com/api/top-langs/?username=ronniiep&layout=compact&theme=github_dark" alt="Top Languages" />
 </div>
 
 ---
